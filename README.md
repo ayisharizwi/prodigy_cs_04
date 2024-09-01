@@ -68,5 +68,3 @@ hello world
 3. **Stopping the Logger:**
    - The keylogger will run indefinitely until the `Esc` key is pressed, which triggers the `on_release` function to stop the listener.
 
-
-You can further customize this README to match any additional functionality or details you may wish to include in your repository.
